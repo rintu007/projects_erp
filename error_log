@@ -1,0 +1,111 @@
+[29-Aug-2017 11:14:24 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 11:14:41 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 11:14:43 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 11:16:58 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 11:17:06 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 11:17:18 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 11:17:39 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 12:51:52 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 12:52:25 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 13:06:03 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 13:44:30 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 14:56:17 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 15:09:04 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 15:11:58 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 15:12:02 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 15:12:52 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 15:13:00 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 15:13:23 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[29-Aug-2017 15:15:10 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[30-Aug-2017 08:58:38 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[30-Aug-2017 08:59:08 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[30-Aug-2017 10:07:32 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/k0253928/public_html/app/app/models/Site.php on line 42
+[01-Sep-2017 10:43:38 Asia/Jakarta] PHP Fatal error:  Call to a member function getDataCustomer() on a non-object in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:43:42 Asia/Jakarta] PHP Fatal error:  Call to a member function getDataCustomer() on a non-object in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:44:55 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:45:21 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:46:13 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:47:27 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:47:31 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:48:25 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:48:26 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:49:27 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:50:44 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:24 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:25 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:27 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:27 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:27 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:28 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:28 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:28 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:28 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:46 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:47 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:48 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:52:50 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:53:17 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 10:53:19 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 40
+[01-Sep-2017 15:19:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method Code::get() in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 61
+[01-Sep-2017 15:37:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method code_model::update() in /home/k0253928/public_html/app/app/controllers/admin/Code.php on line 63
+[01-Sep-2017 15:52:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/k0253928/public_html/app/themes/default/admin/views/header.php on line 378
+[13-Sep-2017 12:44:47 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: sessions) in /home/k8099276/public_html/app/system/libraries/Session/Session.php on line 143
+[13-Sep-2017 12:44:47 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: sessions) in /home/k8099276/public_html/app/system/libraries/Session/Session.php on line 143
+[13-Sep-2017 12:44:59 Asia/Jakarta] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: sessions) in /home/k8099276/public_html/app/system/libraries/Session/Session.php on line 143
+[13-Sep-2017 13:05:13 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:05:18 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:06:05 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:06:52 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:11:41 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:11:54 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:14:56 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:15:03 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:15:11 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:16:55 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:17:14 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[13-Sep-2017 13:17:59 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[15-Sep-2017 01:07:37 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[15-Sep-2017 01:07:56 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[15-Sep-2017 11:16:08 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[18-Sep-2017 09:43:33 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[18-Sep-2017 10:38:01 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[18-Sep-2017 10:43:08 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[18-Sep-2017 10:59:41 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[18-Sep-2017 12:03:04 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[18-Sep-2017 14:19:20 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[18-Sep-2017 14:19:31 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[18-Sep-2017 14:38:06 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[25-Sep-2017 21:30:59 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[25-Sep-2017 21:42:18 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[25-Sep-2017 22:44:32 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[26-Sep-2017 20:27:04 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 09:07:24 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 09:23:21 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 09:25:07 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 09:51:23 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 10:05:48 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 10:29:51 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 10:44:04 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 10:46:44 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 10:47:31 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 10:48:07 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 10:51:11 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[27-Sep-2017 10:54:44 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[29-Sep-2017 07:20:40 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/k8099276/public_html/app/app/libraries/Datatables.php on line 438
+[29-Sep-2017 07:26:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/k8099276/public_html/app/themes/default/admin/views/products/discount.php on line 173
+[29-Sep-2017 07:46:16 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/k8099276/public_html/app/app/controllers/admin/Products.php on line 1389
+[29-Sep-2017 07:47:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k8099276/public_html/app/app/controllers/admin/Products.php on line 1399
+[29-Sep-2017 07:47:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/k8099276/public_html/app/app/controllers/admin/Products.php on line 1399
+[29-Sep-2017 07:47:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on boolean in /home/k8099276/public_html/app/app/controllers/admin/Products.php on line 1389
+[29-Sep-2017 08:04:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/k8099276/public_html/app/themes/default/admin/views/products/add_discount.php on line 49
+[29-Sep-2017 08:05:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/k8099276/public_html/app/themes/default/admin/views/products/add_discount.php on line 49
+[29-Sep-2017 08:05:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/k8099276/public_html/app/themes/default/admin/views/products/add_discount.php on line 49
+[29-Sep-2017 08:15:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/k8099276/public_html/app/app/controllers/admin/Products.php on line 1399
+[29-Sep-2017 08:15:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/k8099276/public_html/app/app/controllers/admin/Products.php on line 1399
+[29-Sep-2017 08:28:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/k8099276/public_html/app/app/controllers/admin/Products.php on line 1399
+[29-Sep-2017 08:30:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/k8099276/public_html/app/themes/default/admin/views/products/edit_discount.php on line 46
+[29-Sep-2017 08:30:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/k8099276/public_html/app/themes/default/admin/views/products/edit_discount.php on line 46
+[29-Sep-2017 08:34:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/k8099276/public_html/app/themes/default/admin/views/products/add_discount.php on line 56
+[29-Sep-2017 19:36:33 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65552 bytes) in /home/k8099276/public_html/app/app/third_party/dompdf/lib/Cpdf.php on line 3951
+[29-Sep-2017 19:44:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'themes' (T_STRING) in /home/k8099276/public_html/app/app/models/Site.php on line 223
+[29-Sep-2017 19:44:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/k8099276/public_html/app/app/models/Site.php on line 223
